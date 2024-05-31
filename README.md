@@ -4,7 +4,7 @@ The project involves building a 3ACF code optimizer that optimizes given Three A
 
 ## Images
 Following is the optimization which is to be acheived
-![Aim](Images/aim.png)
+![Aim](Images/aim.jpg)
 
 - Case 1
 ![result1](Images/img1.png)
