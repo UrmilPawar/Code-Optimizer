@@ -7,7 +7,7 @@ Following is the optimization which is to be acheived
 ![Aim](Images/aim.jpg)
 
 - Case 1
-![result1](Images/img1.png)
+![result2](Images/img2.png)
 
 - Case 2
-![result2](Images/img2.png)
+![result1](Images/img1.png)
